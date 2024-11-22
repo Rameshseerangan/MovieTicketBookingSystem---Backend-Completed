@@ -14,7 +14,7 @@ app.use(express.json());
 connectDb();
 
 app.get("/",(req,res)=>{
-  res.status(200).send("Welcome to our api")
+  res.status(200).send("Welcome to our Movie Booking App Backend");
 })
 
 app.use("/api/auth",authRoute)

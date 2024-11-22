@@ -5,7 +5,7 @@ This is a Node.js, Express, and MongoDB-based backend application for handling u
 ## 🌐 Postman Documentation
 
 For detailed API usage and testing, check the Postman documentation:  
-[View Documentation](https://documenter.getpostman.com/view/39168739/2sAY52bK7m)
+[View Documentation](https://documenter.getpostman.com/view/39168739/2sAYBSktdT)
 
 
 ## 🛠️ Tech Stack
